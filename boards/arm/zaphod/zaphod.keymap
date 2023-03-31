@@ -42,8 +42,8 @@
                 COMBO(slash, &kp SLASH, 27 28)
                 COMBO(backslash, &kp BSLH, 28 29)
 
-                COMBO(esckey, &kp ESC, 1 2)
-                COMBO(tabkey, &kp TAB, 11 12)
+                COMBO(esckey, &kp ESC, 11 12)
+                COMBO(tabkey, &kp TAB, 12 13)
                 
                 COMBO(minus, &kp MINUS, 20 21)
                 COMBO(under, &kp UNDER, 21 22)
